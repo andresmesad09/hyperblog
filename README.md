@@ -11,3 +11,4 @@ Este es un blog creado del curso de Git y GitHub de  [Platzi](http://https://pla
 - Vivencias personales
 - Código
 - Fútbol :goal_net:
+- Mis proyectos
