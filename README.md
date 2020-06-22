@@ -12,3 +12,4 @@ Este es un blog creado del curso de Git y GitHub de  [Platzi](http://https://pla
 - Código
 - Fútbol :goal_net:
 - Mis proyectos
+- Tutotoriales de Excel
